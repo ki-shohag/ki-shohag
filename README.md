@@ -63,7 +63,8 @@ You can use the website to generate badges: https://shields.io/
 
 -----
 
-"" Success makes us feel invincible. Failure teaches us to be humble and work harder. But we must learn that none of these are permanent. What we should avoid is doing nothing as it leads us to nowhere. ""
+__"Success makes us feel invincible. Failure teaches us to be humble and work harder. But we must learn that none of these are permanent. What we should avoid is doing nothing as it leads us to nowhere."__ - Koushikur Islam Shohag
 
+-----
     
 Last Edited on: 07/06/2021
